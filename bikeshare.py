@@ -1,8 +1,9 @@
     """Displays statistics of the bike sharing data"""
 import time
 import sys
+    """Refactoring change number1"""
 import calendar
-import pandas as pd
+import pandas as pd    """Refactoring change number2"""
 import numpy as np
     """Copyrights are belonging to me!"""
 global CITY_DATA
