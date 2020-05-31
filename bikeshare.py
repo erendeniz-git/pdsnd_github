@@ -1,3 +1,4 @@
+    """Displays statistics of the bike sharing data"""
 import time
 import sys
 import calendar
