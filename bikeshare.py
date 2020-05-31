@@ -4,7 +4,7 @@ import sys
 import calendar
 import pandas as pd
 import numpy as np
-
+    """Copyrights are belonging to me!"""
 global CITY_DATA
 
 CITY_DATA = { 'chicago': 'chicago.csv',
